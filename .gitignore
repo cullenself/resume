@@ -1,0 +1,7 @@
+*.out
+*.aux
+*.log
+*.synctex.gz
+Transcript_Self.pdf
+main.pdf
+*.swp
